@@ -1,6 +1,6 @@
 # Documentación Asistente LADM_COL
 
-Documentación del plugin Asistente de LADM_COL para QGIS
+Documentación del plugin Asistente LADM_COL para QGIS
 
 ## Instalar Requerimientos
 
